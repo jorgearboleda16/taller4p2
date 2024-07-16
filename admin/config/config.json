@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "Prueba_Daw",
+    "password": "o@3Xw6r2YuZPXJY&7NeHzGh7",
+    "database": "DAW",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "Prueba_Daw",
+    "password": "o@3Xw6r2YuZPXJY&7NeHzGh7",
+    "database": "DAW",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "Prueba_Daw",
+    "password": "o@3Xw6r2YuZPXJY&7NeHzGh7",
+    "database": "DAW",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
